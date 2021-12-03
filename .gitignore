@@ -1,0 +1,3 @@
+#subjects/*         # rather ignore with a special .gitignore to include the empty folder
+admin/data/*.zip
+.asv

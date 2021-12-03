@@ -1,0 +1,59 @@
+#buttons {
+	max-width: 100%;
+	text-align: center;
+	padding: 20px;
+  	position: relative;
+}
+
+#sentencePlaceholder {
+	max-width: 100%;
+	text-align: center;
+	font-size: 24px;
+	padding: 100px;
+  	position: relative;
+}
+
+#start {
+    background-color: green;
+    border-width: medium;
+    border-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 15%;
+    max-height: 15%;
+    border-radius: 10%;
+    position: relative;
+}
+#stopExperiment {
+  background-color: red;
+  border-width: medium;
+  border-color: black;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  width: 10%;
+  max-height: 15%;
+  border-radius: 10%;
+  position: relative;
+}
+h2 {
+	text-align: center;
+    position: relative;
+}
+#recordedAudio {
+  width: 40%;
+  left: 30%;
+  right: 30%;
+  position: relative;
+}

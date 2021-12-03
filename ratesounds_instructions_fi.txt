@@ -1,0 +1,72 @@
+<div style="text-align:justify;font-size:14px">
+<br>
+<br>
+
+Tässä tehtävässä tarkastellaan, miten aikuiset havaitsevat lasten puhetta. Tarkastelun kohteena on /r/-äänteen tuottaminen. Kuuntele näytteet huolellisesti, sillä tehtävässä sinua pyydetään arvioimaan lapsien tuottamia äänteitä. Tehtävä on kaksiosainen.
+<br>
+<br>
+Jos tuntuu, että tehtävä jää jumiin etkä pääse antamaan arviota äänestä, tämä voi johtua nettiyhteyden väliaikaisista ongelmista jolloin sivu ei ole saanut ladattua ääntä loppuun. Tällöin voit jatkaa arviointeja lataamalla sivu uudestaan (F5/CTRL+R/<b>🔁</b>-symboli tms.) tai kirjoittamalla koehenkilönumero/käyttäjätunnus talteen ja aloittamalla koe alusta <a href="./">pääsivun</a> kautta. Tämä nettikoe muistaa mihin asti olet päässyt arvioinneissa ja pääset jatkamaan jumiin jääneestä äänestä.
+<br>
+<br>
+
+<h1>Osio 1 (pitkät äänteet)</h1>
+Ensimmäisessä osiossa tehtäväsi on luokitella kuulemasi äänteet kategorioihin ääntymäpaikan ja -tavan mukaan. Äänteet käynnistyvät painamalla TOISTA-nappia. Kuulet jokaisen äänteen kolme kertaa, jonka jälkeen voit tehdä arvion valitsemalla äänteelle sopivan kategorian. Jos äänne ei sovi mielestäsi mihinkään esitetyistä kategorioista, voit valita kohdan <i>8. Muu</i>, ja kuvailla ääntymätapaa ja -paikkaa sanallisesti. Kuuntele äänteet huolellisesti loppuun saakka. Voit käynnistää äänteiden kuuntelun painamalla sivun alareunan linkkiä, äänteestä toiseen siirryt Jatka -napilla.
+<br>
+<br>
+Osiossa 1 käytetään alla olevia kategorioita äänille (näkyy myös luokiteltaessa):<br><br>
+
+<b>1. lateraalinen /r/</b>
+<ul>
+<li>kielen oikea tai vasen laide muodostaa /r/:ää muistuttavan äänteen, täry on voimaton ja työläs
+</ul>
+<br>
+<b>2. frikatiivinen /r/</b>
+<ul>
+<li>kieli on oikeassa ääntymispaikassa, mutta kieli ei tärise
+</ul>
+<br>
+<b>3. dorsaalinen /r/</b>
+<ul>
+<li>kielen selkä nousee ylös kitalakeen ja tärisee ylähammasvallin keskiosaa vasten, kielen kärki ei tärise 
+</ul>
+<br>
+<b>4. uvulaarinen /r/</b>
+<ul>
+<li>uvula tärisee kielen takaselkää vasten
+</ul>
+<br>
+<b>5. substituutio</b>
+<ul>
+<li>/r/ korvautuu toisella äänteellä
+</ul>
+<br>
+<b>6. lateroflexus /r/</b>
+<ul>
+<li>äännön aikana kielen kärki kääntyy sivulle
+</ul>
+<br>
+<b>7. suomen kielen mukainen /r/</b>
+<br>
+<br>
+<b>8. muu ääntymäpaikka ja/tai -tapa, mikä?</b>
+<br>
+<br>
+
+<h1>Osio 2 (lyhyet äänteet)</h1>
+Toisessa osiossa kuulet /r/-äänteitä yhdistettynä lyhyeen vokaaliin. Vokaali voi kuulua joko ennen /r/-äännettä tai sen jälkeen. Tehtäväsi on arvioida, minkälaista äännettä kuulemasi näyte vastaa. Janan toisessa päädyssä on muu ääntymäpaikka, keskellä frikatiivinen /r/ ja toisessa päädyssä suomen kielen mukainen /r/. Toivomme, että käytät arvioita tehdessäsi janaa koko sen pituudelta. Osa äänteistä on helpompi sijoittaa selkeästi janalle esim. janan päätyihin. Epäselvemmissä tapauksissa arvioi, mihin kohtaan janaa äänne mielestäsi parhaiten sijoittuisi. Emme pyydä sinua kiinnittämään huomiota mihinkään tiettyyn äänteen piirteeseen, vaan tee arviosi oman havaintosi pohjalta. Äänteet käynnistyvät painamalla TOISTA-nappia, jonka jälkeen kuulet jokaisen näytteen kolmesti. Kuuntele näyte loppuun saakka ja tee arviosi vasta sen jälkeen. Sivu siirtyy seuraavaan ääneen heti arvioinnin jälkeen. Jos haluat jättää arvon janan aivan keskelle, paina Jatka-nappia.
+<br>
+<br>
+Toinen osio on ensimmäistä osiota pidempi. Voit seurata arvioinnin etenemistä alalaidan prosenttimerkinnöistä.
+<br>
+<br>
+Aivan alkuun kuulet viisi harjoitteluääntä jossa arvioinnin toimintamekanismi selviää. Näiden jälkeen siirrytään varsinaisiin ääniin.
+<br>
+<br>
+Vastauksesi tallentuvat automaattisesti. Jos haluat välillä keskeyttää vastaamisen, pääset kirjautumaan takaisin vastaussivun alareunassa näkyvällä koehenkilötunnuksellasi ja jatkamaan siitä, mihin jäit. Pääset myös tarkistamaan vastausohjeet klikkaamalla sivun alareunan 'Ohjeet'-nappia.
+<br>
+<br>
+</div>
+
+
+
+

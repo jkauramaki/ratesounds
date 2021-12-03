@@ -1,0 +1,72 @@
+<div style="text-align:justify;font-size:14px">
+<br>
+<br>
+
+The goal here is to evaluate how adults perceive children's speech. The specific goal is /r/ sound production. Listen carefully to the samples, as you will be asked to evaluate sounds produced by children. The experiment has two parts.
+<br>
+<br>
+If you feel that the web application is stuck and you cannot continue, press any button nor hear anything, this may be due to temporal issues with your internet connection blocking loading up the sample completely. In these cases you can simply try to refresh the page (using e.g. F5/CTRL+R/<b>🔁</b> button) or writing down your subject code and starting over from the <a href="/./">main page</a>. The web application remembers your progress, and allows you to continue the evaluation.
+<br>
+<br>
+
+<h1>Part 1 (long sounds)</h1>
+In this part your task is to categorize the sound samples based on the articulation place. The sound starts by pressing the PLAY button. You will hear each sample three times, and your task is to select the category after the playback has ended. If the sample does not fall into any of the categories, please select <i>8. other</i> and describe the articulation place by writing down a short description. Please listen to the samples completely. You may start the listening test by pressing the link at the bottom of the page, and move on to the next sound by pressing the Continue button.
+<br>
+<br>
+In part 1 you'll be using these categories (also shown in the page; N.B. quick translation from Finnish to English by a person without linguistic background, so the list may have inaccuracies):<br><br>
+
+<b>1. lateral /r/</b>
+<ul>
+<li>right side of the tongue produces /r/ like sound, but this is effortful and weak 
+</ul>
+<br>
+<b>2. fricative /r/</b>
+<ul>
+<li>tongue is in the right position but no trill is produced
+</ul>
+<br>
+<b>3. dorsal /r/</b>
+<ul>
+<li>articulated with the back of the tongue, but no trill at the tip of the tongue
+</ul>
+<br>
+<b>4. uvular /r/</b>
+<ul>
+<li>/r/ is articulated with the back of the tongue at the uvula
+</ul>
+<br>
+<b>5. substitution</b>
+<ul>
+<li>/r/ is replaced by some other sound
+</ul>
+<br>
+<b>6. lateroflexus /r/</b>
+<ul>
+<li>during pronunciation the tip of the tongue turns sideways
+</ul>
+<br>
+<b>7. Finnish [r]</b>
+<br>
+<br>
+<b>8. other place of articulation or manner, describe?</b>
+<br>
+<br>
+
+<h1>Part 2 (short samples)</h1>
+Here you will hear /r/ sounds combined to short vowel. Vowel is either before /r/ or after it. Your task is to evaluate what kind of sound does the sample correspond to. Left end of the scale corresponds to other place of articulation, middle to fricative /r/ and right end to a typical Finnish [r]. We encourage you to use the full scale during evaluation. Some samples are easy to place for instance in the scale extremes. For more ambiguous cases please evaluate the best possible position for the given sample. We do not ask you to pay attention to any specific feature of the sound, but rather make your evaluation based on your perception. The sample playback starts by pressing the PLAY button, and you will hear the sample three times. Complete the evaluation only after the playback has ended. The application will automatically move to the next sample. If you wish to leave the evaluation at the middle, only press the Continue button.
+<br>
+<br>
+The second part is longer than the first one. You will see your progress at the bottom of the page.
+<br>
+<br>
+In the beginning of the evaluation you will hear five practice sounds to familiarize yourself to the experiment. The experiment will automatically continue to the actual sounds.
+<br>
+<br>
+Your responses are stored automatically. If you wish to pause the evaluation process for a while, you may continue by logging in with your subject code (number), the evaluation will resume from the position you have advanced so far. You may recheck the evaluation instructions from the 'Instruction' link at the bottom of the page. 
+<br>
+<br>
+</div>
+
+
+
+

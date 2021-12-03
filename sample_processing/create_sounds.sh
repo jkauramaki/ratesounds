@@ -1,4 +1,5 @@
-# Bash script to create short three time-repeated sounds from ultrasound-ripped examples
+#!/bin/bash
+# Bash script to create short three time repeated sounds from ultrasound theraphy sampes
 # Requires sox for audio concatenation + fade-in/fade-out, lame for wav => mp3 conversion
 # Used in web experiment, filename obfuscation (sampleNNN.[mp3/wav]) due to this
 # Output written under output/ directory, input/output correspondence to 
