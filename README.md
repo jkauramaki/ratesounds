@@ -15,6 +15,12 @@ and for the whole /var/www/html
 # Options Indexes FollowSymLinks
 </pre>
 
+Categorical selection screenshot:<br>
+<img src="screenshot_categorical.png" width="90%">
+
+VAS rating screenshot:<br>
+<img src="screenshot_vas_rating.png" width="90%">
+
 Specific notes and short descriptions for the experiments:
 
 <ul>
